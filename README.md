@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Customer Segmentation Dashboard](customer-segmentation-dashboard.png)
+![Customer Segmentation Dashboard](customer-segmentation-dashboard.jpg)
 
 ## Project Overview
 
