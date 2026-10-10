@@ -1,5 +1,9 @@
 # Customer Segmentation & Recommendations — Power BI
 
+## Dashboard Preview
+
+![Customer Segmentation Dashboard](customer-segmentation-dashboard.png)
+
 ## Project Overview
 
 This project explores customer purchasing behaviour using Power BI. The aim was to understand customer spending patterns, identify different customer segments, and develop recommendations to support customer engagement and retention.
